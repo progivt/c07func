@@ -11,6 +11,8 @@ _minted-*
 *.aux
 *.xdv
 
+*.suo
+
 # compiled output
 /dist
 /tmp
